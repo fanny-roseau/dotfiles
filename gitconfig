@@ -48,3 +48,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = fannyroseau@hotmail.com
+	name = Fanny Roseau
